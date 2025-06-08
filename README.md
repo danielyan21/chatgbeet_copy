@@ -1,4 +1,4 @@
-# capstone-ccber
+# Exploring Optimizations in Anthophila Taxonomic Research Using Retrieval-Augmented Generation
 _this is a clone of the original repository used throughout the project._ This is the repository for the 2025 UCSB Statistics & Data Science capstone project working in collaboration with the Cheadle Center for Biodiversity & Ecological Restoration.
 
 Collaborators: Bennett Bishop, Casey Linden, Daniel Yan, Kasturi Sharma, Keon Dibley, Sean Reagan
